@@ -205,6 +205,7 @@ ul.skills2 {
 .project-title {
   font-size: 2rem;
   padding: 2rem 0.5rem;
+  background-color: #303841;
 }
 img {
   display: block;
